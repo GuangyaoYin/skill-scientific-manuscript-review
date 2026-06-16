@@ -1,4 +1,4 @@
 interface:
   display_name: "审稿skill"
-  short_description: "科技论文审稿辅助，适合地球物理、地震学和SCI审稿。"
-  default_prompt: "Use $scientific-manuscript-review to review this manuscript and generate Chinese reasoning plus journal-ready English reviewer comments."
+  short_description: "科技论文审稿辅助，默认生成可归档Word审稿报告。"
+  default_prompt: "Use $scientific-manuscript-review to review this manuscript and generate a formatted Word review report with Chinese reasoning and journal-ready English comments."
